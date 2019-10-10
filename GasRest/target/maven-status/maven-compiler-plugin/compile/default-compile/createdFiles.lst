@@ -1,0 +1,9 @@
+com\srpago\gasws\rest\core\persisntence\entities\DatosVenta.class
+com\srpago\gasws\rest\client\GasStationClient.class
+com\srpago\gasws\rest\model\Pagination.class
+com\srpago\gasws\rest\model\Response.class
+com\srpago\gasws\rest\service\GasolineriaService.class
+com\srpago\gasws\rest\core\persistence\operation\DbOperations.class
+com\srpago\gasws\rest\model\Results.class
+com\srpago\gasws\rest\model\ListResults.class
+com\srpago\gasws\rest\model\InfoRQ.class
